@@ -1,0 +1,15 @@
+# Introduction
+
+This is a book created from markdown and executable code.
+
+See @knuth84 for additional discussion of literate programming.
+
+::: {#axm-extension}
+
+## Axiom of extension
+
+Two sets are equal if and only if they have the same elements.
+
+:::
+
+@axm-extension

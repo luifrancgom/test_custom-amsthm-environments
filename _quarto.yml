@@ -1,0 +1,31 @@
+project:
+  type: book
+
+book:
+  title: "quarto_test_book"
+  author: "Norah Jones"
+  date: "10/5/2025"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+  downloads: [pdf]
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+custom-amsthm:
+  - key: axm
+    name: Axiom
+    numbered: true
+    numbering-style: "section"
+filters:
+  - custom-amsthm-environments

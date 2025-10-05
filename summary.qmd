@@ -1,0 +1,13 @@
+# Summary
+
+In summary, this book has no content whatsoever.
+
+::: {#axm-specification}
+
+## Axiom of specification
+
+To every set $A$ and to every condition $S(x)$ corresponds a set $B$ whose elements are exactly those elements $x$ of $A$ for which holds $S(x)$.
+
+:::
+
+@axm-specification
