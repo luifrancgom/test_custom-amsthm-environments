@@ -24,7 +24,7 @@
     "href": "summary.html",
     "title": "2  Summary",
     "section": "",
-    "text": "2.1 Axiom of specification\nIn summary, this book has no content whatsoever.\nAxiom 1\nTo every set \\(A\\) and to every condition \\(S(x)\\) corresponds a set \\(B\\) whose elements are exactly those elements \\(x\\) of \\(A\\) for which holds \\(S(x)\\).\n?cnj-specification",
+    "text": "In summary, this book has no content whatsoever.\n\nActual behavior\n\n\nAxiom 1 (Axiom of specification) To every set \\(A\\) and to every condition \\(S(x)\\) corresponds a set \\(B\\) whose elements are exactly those elements \\(x\\) of \\(A\\) for which holds \\(S(x)\\).\n\nAxiom 1\n\nExpected behavior\n\n\nAxiom 2.1 (Axiom of specification) To every set \\(A\\) and to every condition \\(S(x)\\) corresponds a set \\(B\\) whose elements are exactly those elements \\(x\\) of \\(A\\) for which holds \\(S(x)\\).\n\nAxiom 2.1",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
     ]

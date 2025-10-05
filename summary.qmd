@@ -16,7 +16,7 @@ To every set $A$ and to every condition $S(x)$ corresponds a set $B$ whose eleme
 
 - Expected behavior
 
-::: {#@cnj-specification}
+::: {#cnj-specification}
 
 ## Axiom of specification
 
