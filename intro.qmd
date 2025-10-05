@@ -4,6 +4,8 @@ This is a book created from markdown and executable code.
 
 See @knuth84 for additional discussion of literate programming.
 
+- Actual behavior
+
 ::: {#axm-extension}
 
 ## Axiom of extension
@@ -13,3 +15,15 @@ Two sets are equal if and only if they have the same elements.
 :::
 
 @axm-extension
+
+- Expected behavior
+
+::: {#cnj-extension}
+
+## Axiom of extension
+
+Two sets are equal if and only if they have the same elements.
+
+:::
+
+@cnj-extension

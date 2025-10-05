@@ -2,6 +2,8 @@
 
 In summary, this book has no content whatsoever.
 
+- Actual behavior
+
 ::: {#axm-specification}
 
 ## Axiom of specification
@@ -11,3 +13,15 @@ To every set $A$ and to every condition $S(x)$ corresponds a set $B$ whose eleme
 :::
 
 @axm-specification
+
+- Expected behavior
+
+::: {#@cnj-specification}
+
+## Axiom of specification
+
+To every set $A$ and to every condition $S(x)$ corresponds a set $B$ whose elements are exactly those elements $x$ of $A$ for which holds $S(x)$.
+
+:::
+
+@cnj-specification

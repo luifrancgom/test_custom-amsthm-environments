@@ -30,3 +30,9 @@ custom-amsthm:
     numbering-style: "section"
 filters:
   - custom-amsthm-environments
+
+# Partial solution to include axioms
+crossref:
+  cnj-title: Axiom
+  cnj-prefix: Axiom
+  cnj-labels: arabic
